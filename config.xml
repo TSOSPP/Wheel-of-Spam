@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="gq.joshiepoo.spamwheel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Wheel of Spam</name>
+    <description>
+        The wheel of spam!
+    </description>
+	<icon src="icon.png" />
+    <author email="herronjo110@gmail.com" href="https://joshiepoo.gq">
+        Joshua Herron
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
